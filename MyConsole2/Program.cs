@@ -10,6 +10,7 @@ namespace MyConsole2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My first git-repo");
         }
     }
 }
